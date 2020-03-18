@@ -14,7 +14,7 @@
             {
                 "label": " New Monokai",
                 "uiTheme": "vs-dark",
-                "path": "./themes/ New Monokai-color-theme.json"
+                "path": "./themes/new-monokai-color-theme.json"
             }
         ]
     }

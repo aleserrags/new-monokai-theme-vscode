@@ -8,15 +8,26 @@
 
 		//Sidebar
 		"sideBar.background": "#1d2528",
+		"sideBar.border": "#161b1e",
 		"sideBarSectionHeader.background": "#1d2528",
 		"sideBarTitle.foreground": "#bbbbbb",
 
-		//ActivityBar
+		//Activity Bar
 		"activityBar.background": "#161b1e",
 		"activityBarBadge.background": "#007acc",
 
-		//Titlebar
+		//Title bar
 		"titleBar.activeBackground": "#1d2528",
+		"titleBar.border": "#161b1e",
+		"titleBar.activeForeground": "#8b9798",
+
+		// Menu Bar
+		"menu.background": "#273136",
+		"menu.foreground": "#8b9798",
+
+		//Status bar
+		"statusBar.background": "#1d2528",
+		"statusBar.border": "#161b1e",
 	},
 	"tokenColors": [
 		{
