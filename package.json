@@ -1,0 +1,21 @@
+{
+    "name": "new-monokai",
+    "displayName": "New Monokai",
+    "description": "The best monokai theme for vscode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": " New Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ New Monokai-color-theme.json"
+            }
+        ]
+    }
+}
